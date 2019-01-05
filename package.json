@@ -1,0 +1,9 @@
+{
+  "name": "memoize",
+  "version": "1.0.0",
+  "description": "Memoization function in Javascript with LRU cache support.",
+  "main": "src/index.js",
+  "repository": "https://github.com/hereisnaman/memoize.git",
+  "author": "Naman Kumar <naman@outlook.in>",
+  "license": "MIT"
+}
